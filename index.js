@@ -18,8 +18,8 @@ function add2(n) {
   const two = 2
 }
 var FUNKY=9
-var funkyFunction = function() {
-  return function() {
+var funkyFunction = myAnimal() {
+  return yourAnimal() {
     return "FUNKY!"
   }
 }
